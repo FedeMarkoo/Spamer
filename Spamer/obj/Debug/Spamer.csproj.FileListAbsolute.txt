@@ -1,0 +1,10 @@
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\bin\Debug\Spamer.exe.config
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\bin\Debug\Spamer.exe
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\bin\Debug\Spamer.pdb
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.Form1.resources
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.Properties.Resources.resources
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.csproj.GenerateResource.Cache
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.exe
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.pdb
+C:\Users\fedem\Escritorio\Proyectos\Spamer\Spamer\obj\Debug\Spamer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+Get-Content 'Grupos.txt' | Sort-Object {Get-Random} | Set-Content 'Grupos.txt' -Encoding Unicode
